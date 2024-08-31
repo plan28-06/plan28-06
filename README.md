@@ -1,6 +1,7 @@
 - 👋 Hi, I’m a undergrad pursing Computer Science(sophomore) , just meddling with stuff here and there. 
 
 
+## Visitor Count
 <p align="center">
   <img src="https://profile-counter.glitch.me/plan28-06/count.svg" alt="Visitor Count">
 </p>
