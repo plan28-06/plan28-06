@@ -1,5 +1,4 @@
-- 👋 Hi, I’m a undergrad pursing Computer Science(sophomore) , just meddling with stuff here and there.
-- ⚡ Use at your own risk - Are you a doubly linked list cuz you're the only one I can see in both directions --- 😜 
+- 👋 Hi, I’m a undergrad pursing Computer Science(sophomore) , just meddling with stuff here and there. 
 
 
 <p align="center">
