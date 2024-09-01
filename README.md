@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a undergrad pursing Computer Science(sophomore) , just meddling with stuff here and there. 
+- 👋 Hi, I’m a undergrad pursing Computer Science (sophomore) , just meddling with stuff here and there. 
 
 
 ## Visitor Count
